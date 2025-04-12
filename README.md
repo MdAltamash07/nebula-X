@@ -17,10 +17,12 @@ CSS3
 JavaScript
 
 How to Use
-- Visit the website at .
+- clone the files in your editor
+- names of the files should be same as in this repository
 - Navigate through various sections using the main menu.
 - Check out featured articles, watch videos, or download resources.
-- Join the community forum to engage with fellow space enthusiasts.
+- Run Web.htm file to open the site
+
 
 
 
